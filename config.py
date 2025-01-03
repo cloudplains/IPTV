@@ -8,7 +8,6 @@ https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/�
 https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt,
 https://ghgo.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt,
 http://175.178.251.183:6689/aktvlive.txt,
-https://live.fanmingming.com/tv/m3u/ipv6.m3u,
 https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt,
 https://www.mytvsuper.xyz/m3u/Live.m3u,
 https://tv.youdu.fan:666/live/,

@@ -1,23 +1,23 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-
-    https://aktv.top/live.txt,
-    http://175.178.251.183:6689/live.txt,
-    https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt,
-    https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt,
-    https://ghgo.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt,
-    http://175.178.251.183:6689/aktvlive.txt,
-    https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt,
-    https://www.mytvsuper.xyz/m3u/Live.m3u,
-    https://tv.youdu.fan:666/live/,
-    http://xhztv.top/zbc.txt,
-    https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt,
-    https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt,
-    http://home.jundie.top:81/Cat/tv/live.txt,
-    https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u,
-    https://fm1077.serv00.net/SmartTV.m3u,
-    https://raw.githubusercontent.com/cloudplains/jnsj/master/tv202303.txt
+    "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "https://aktv.top/live.txt",
+    "http://175.178.251.183:6689/live.txt",
+    "https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt",
+    "https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt",
+    "https://ghgo.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt",
+    "http://175.178.251.183:6689/aktvlive.txt",
+    "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
+    "https://www.mytvsuper.xyz/m3u/Live.m3u",
+    "https://tv.youdu.fan:666/live/",
+    "http://xhztv.top/zbc.txt",
+    "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
+    "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
+    "http://home.jundie.top:81/Cat/tv/live.txt",
+    "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
+    "https://fm1077.serv00.net/SmartTV.m3u",
+    "https://raw.githubusercontent.com/cloudplains/jnsj/master/tv202303.txt"
 ]
 
 url_blacklist = [

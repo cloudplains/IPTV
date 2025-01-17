@@ -23,6 +23,27 @@ source_urls = [
     "https://fm1077.serv00.net/SmartTV.m3u",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
+    "https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt",
+    "https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt",
+    "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
+    "https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8",
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+    "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+    "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt",
+    "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt",
+    "https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt",
+    "https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt",
+    "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+    "https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt",
+    "https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt",
+    "https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u",
+    "https://www.cloudplains.cn/tv202303.txt",
+    "https://aktv.top/live.txt",
+    "https://www.cloudplains.cn/listtest/hnv6.txt",
+    "http://106.53.99.30/vip.txt"
+
 ]
 
 url_blacklist = [
@@ -52,12 +73,10 @@ url_blacklist = [
 
 announcements = [
     {
-        "channel": "公告",
+        "channel": "更新日期",
         "entries": [
-            {"name": "请阅读", "url": "https://liuliuliu.tv/api/channels/1997/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": "yuanzl77.github.io", "url": "https://liuliuliu.tv/api/channels/233/stream", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": "更新日期", "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "", "url": "", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": None, "url": "", "logo": "http://175.178.251.183:6689/LR.jpg"}
         ]
     }
 ]
